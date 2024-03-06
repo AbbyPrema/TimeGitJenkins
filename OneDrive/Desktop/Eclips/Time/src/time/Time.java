@@ -24,7 +24,6 @@ public class Time
 
 
 
-
 	public static int getTotalSeconds(String time)throws NumberFormatException, StringIndexOutOfBoundsException {
 		
 		int hours = getTotalHours(time);
